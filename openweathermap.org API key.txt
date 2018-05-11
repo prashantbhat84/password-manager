@@ -1,0 +1,14 @@
+7e398c6676f0965bfa5ef4267d3bfaa2
+
+7e398c6676f0965bfa5ef4267d3bfaa2
+
+var url = 'http://api.openweathermap.org/data/2.5/weather?q=' + encodedLocation + '&units=imperial';
+
+var url = 'http://api.openweathermap.org/data/2.5/weather?appid=7e398c6676f0965bfa5ef4267d3bfaa2&q=' + encodedLocation + '&units=imperial';
+
+http://api.openweathermap.org/data/2.5/weather?appid=7e398c6676f0965bfa5ef4267d3bfaa2&q=Vishakapatanam&units=metric
+
+
+// getting information about the location based on IP add
+
+curl ipinfo.io
